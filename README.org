@@ -4,6 +4,6 @@ cl-brotli is a library with Common Lisp bindings for the brotli compression libr
 
 |---------+------------------------------------------------------------|
 | source  | git:https://codeberg.org/fsm/cl-brotli.git                |
-| commit  | 0000000                                                    |
+| commit  | 420e84b                                                    |
 | systems | cl-brotli                                                 |
 |---------+------------------------------------------------------------|
