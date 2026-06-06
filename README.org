@@ -1,0 +1,9 @@
+* cl-brotli
+
+cl-brotli is a library with Common Lisp bindings for the brotli compression library, providing Gray-stream-based compression and decompression.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://codeberg.org/fsm/cl-brotli.git                |
+| commit  | 0000000                                                    |
+| systems | cl-brotli                                                 |
+|---------+------------------------------------------------------------|
